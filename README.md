@@ -14,5 +14,6 @@ print(" ")#print define una linea en blanco
 
 ![image](https://github.com/user-attachments/assets/9417ac0d-56bf-41a3-aaca-a3b3b2a83fd9)
 ![image](https://github.com/user-attachments/assets/c360c820-161e-4fc1-8810-0889592789e5)
+![image](https://github.com/user-attachments/assets/05cc1ba4-b6d9-43d2-8e0e-f5f14a65337f)
 
 
